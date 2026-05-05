@@ -1,3 +1,5 @@
+
+<!-- https://chatgpt.com/g/g-p-69f322553e748191b1fdaff66a8bfd06-cnn/c/69f8a149-0e14-83eb-a4eb-3c9614158dba -->
 # Pure Python Educational CNN
 
 This project implements a small Convolutional Neural Network from scratch using **pure Python only**.
